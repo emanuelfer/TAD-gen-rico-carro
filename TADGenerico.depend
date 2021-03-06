@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1614989661 source:c:\users\emanu\onedrive\documentos\programação em c\tadgenerico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colecao.h"
+
+1614290257 c:\users\emanu\onedrive\documentos\programação em c\tadgenerico\colecao.c
+	<stdio.h>
+	<stdlib.h>
+	"colecao.h"
+
+1614377674 c:\users\emanu\onedrive\documentos\programação em c\tadgenerico\colecao.h
+
+1614381819 source:c:\users\emanu\onedrive\documentos\programação em c\tadgenerico\colecao.c
+	<stdio.h>
+	<stdlib.h>
+	"colecao.h"
+
